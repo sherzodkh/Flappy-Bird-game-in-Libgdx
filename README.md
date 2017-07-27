@@ -1,7 +1,9 @@
 # Flappy-Bird-game-in-Libgdx
 This is a flappy bird game clone  made in Libgdx  
 
-Game support for Android !
+Game support for Android.
+
+And game is written with only 200 lines of code and easy to follow!
 
 You are welcome to make any changes in this game and it's completely open-source to use.
 
